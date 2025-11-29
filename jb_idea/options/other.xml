@@ -1,0 +1,159 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="Qodana.ShowReportGroup" />
+    </ids>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/IdeaProjects/cvhub/idea-checkstyle.xml" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AIHubNotificationManager.lastUsedLicenseType": "FREE",
+    "Beans.split": "0.65",
+    "BeansSearchHistory": "module: auth-service userServiceImpl",
+    "ColorChooser.RecentColors": "0-255-41-255,,,255-18-0-255,,,103-103-102-255,,,193-187-0-255,,,0-159-0-255,,,0-141-227-255",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.RawTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JwtTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JwtTextVisualizer",
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "Endpoints.split": "0.65",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "FindSplitterProportion": "0.3300213",
+    "GrepConsole.ProfileDetail": "380",
+    "GrepConsole.ProfileDetail.divider2": "281",
+    "InjectObjectChooser.modifier": "PUBLIC",
+    "InstalledPluginsSearchHistory": "check\nche\namplicode\namplicod\namplico",
+    "JUnitSupport.hidePassedTests": "false",
+    "KEYMAP": "comment\nselect opened file\nselect opened\nopen selected\nsurround",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-252.26830.84",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-252.26830.84",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.doNotKeepLineBreaks": "true",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntriesJava": "true",
+    "LiveContextsPanel[0]": "0.10989011",
+    "LiveContextsPanel[1]": "0.12353305",
+    "LiveContextsPanel[2]": "0.14104372",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "checkstyle\nchecks\ncheck\namplicode\n/tag:Editor",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.gitState": "false",
+    "NewProjectWizard.gradleDslState": "GROOVY",
+    "NewProjectWizard.groupIdState": "ru.cassidal",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.ADD_AMPLICODE_PLUGIN_REPOSITORY": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "jdk\njava\noptimize im\nbean\ns",
+    "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.65",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "create.project.preferred.importer": "Maven",
+    "database.notebook.setting.id": "eabf2b79-d0e3-46d2-a84f-fe92a9bca4b1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "2",
+    "evlsprt3.252": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "252.27397.103",
+    "export.settings.marked": "options/AIOnboardingPromoWindowAdvisor.xml|options/acceptedLanguageLevels.xml|options/advancedSettings.xml|options/code.style.schemes.xml|codestyles|options/profiler.xml|options/dataViewsSettings.xml|options/databaseDrivers.xml|options/databaseSettings.xml|options/debugger.xml|options/project.default.xml|options/editor-font.xml|options/diff.xml|options/DontShowAgainFeedbackService.xml|options/colors.scheme.xml|colors|options/equalsHashCodeTemplates.xml|options/editor.xml|options/file.template.settings.xml|fileTemplates|options/filetypes.xml|options/find.xml|options/findUsages.xml|options/gitlab.xml|options/github.xml|options/usageView.xml|options/grazie_global.xml|options/GrepConsole.xml|options/proxy.settings.xml|options/ignored-suggested-plugins.xml|inspection|options/intentionSettings.xml|options/k2-feedback.xml|options/KeyPromoterXSettings.xml|options/keymapFlags.xml|keymaps|options/IntelliLang.xml|options/ide-features-trainer.xml|options/gutter.xml|options/templates.xml|templates|options/log-categories.xml|options/laf.xml|options/notifications.xml|options/overrideFileTypes.xml|options/path.macros.xml|options/profilerRunConfigurations.xml|options/projectView.xml|options/rainbow_brackets.xml|options/baseRefactoring.xml|options/ide.general.xml|options/remote-servers.xml|options/jdk.table.xml|options/amplicode-settings.xml|options/csvSettings.xml|options/settingsSync.xml|options/sshConfigs.xml|options/terminal-font.xml|options/textmate.xml|options/toStringTemplates.xml|options/trusted-paths.xml|options/ui.lnf.xml|options/updates.xml|options/window.state.xml|options/shared-indexes.xml|options/github-copilot.xml|",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "136",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.empty.project.create.file": "1",
+    "got.it.tooltip.fragment.hidden.vmParameters": "1",
+    "got.it.tooltip.fragment.hidden.workingDirectory": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.islands.ab2": "true",
+    "idea.islands.enabled": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "252.27397.103-IJ",
+    "jdk.selected.JAVA_MODULE": "temurin-24",
+    "junie.openOnceAfterInstall": "true",
+    "kotlin.lastUpdateCheck": "1760794790375",
+    "last.imported.location": "/home/cassidal/IdeaProjects/cvhub/grpc",
+    "last_opened_file_path": "/home/cassidal/IdeaProjects/cvhub/idea-checkstyle.xml",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER_HIDDEN",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "4",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-252.27397.103",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "tab_selection_count": "3",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "toolwindow.showToolWindowsNames.ts": "2025-11-29T13:15:59.445965633",
+    "trial.state.last.availability.check": "1756222890049",
+    "trial.state.last.availability.state": "false",
+    "trial.state.last.state": "EXPIRED",
+    "ts.lib.d.ts.version": "5.7.3"
+  },
+  "keyToStringList": {
+    "AIHubNotificationManager.lastAllNotifications": [],
+    "AIHubNotificationManager.notifications": [
+      "FREE_ENABLED"
+    ],
+    "AIHubNotificationManager.seenNotifications": [],
+    "file.chooser.recent.files": [
+      "/home/cassidal/.trash/tenderhack-2025/backend",
+      "/home/cassidal/.trash/kit",
+      "/home/cassidal/IdeaProjects/yandex-cup",
+      "/home/cassidal/IdeaProjects/cvhub/idea-checkstyle.xml",
+      "/home/cassidal/IdeaProjects/cvhub/auth-service/checkstyle.xml",
+      "/home/cassidal/IdeaProjects/cvhub/auth-service/sun_checks.xml",
+      "/home/cassidal/IdeaProjects/clear-spring",
+      "/home/cassidal/IdeaProjects/cvhub/auth-service",
+      "/home/cassidal/IdeaProjects/cvhub",
+      "/home/cassidal/IdeaProjects/cvhub/auth-service/HELP.md",
+      "/home/cassidal/IdeaProjects/cvhub/grpc",
+      "/home/cassidal/IdeaProjects/cvhub/auth-service/mvnw",
+      "/home/cassidal/IdeaProjects/cvhub1/grpc",
+      "/home/cassidal/IdeaProjects/cvhub1/auth-service"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.goide.execution.testing.frameworks.gofuzz.corpus.GoFuzzCorpusFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="SearchOptions">
+    <option name="fuState">
+      <list />
+    </option>
+    <option name="suState">
+      <list />
+    </option>
+  </component>
+</application>

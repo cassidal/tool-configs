@@ -1,0 +1,43 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="KubernetesApiProvider">{}</component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="2668" y="204" key="FileChooserDialogImpl" timestamp="1758449193877">
+          <screen x="1920" y="0" width="1920" height="1080" />
+        </state>
+        <state x="2668" y="204" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080" timestamp="1758449193877" />
+        <state x="469" y="121" key="SettingsEditor" timestamp="1756222888032">
+          <screen x="0" y="32" width="1920" height="1048" />
+        </state>
+        <state x="469" y="121" key="SettingsEditor/0.32.1920.1048" timestamp="1756222888032" />
+        <state x="2480" y="104" width="800" height="696" key="new project wizard" timestamp="1758449204774">
+          <screen x="1920" y="0" width="1920" height="1080" />
+        </state>
+        <state x="560" y="133" width="800" height="713" key="new project wizard/0.32.1920.1048" timestamp="1756222922420" />
+        <state x="2480" y="104" width="800" height="696" key="new project wizard/1920.0.1920.1080/0.0.1920.1080" timestamp="1758449204774" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>25</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

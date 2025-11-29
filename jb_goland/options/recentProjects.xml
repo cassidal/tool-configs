@@ -1,0 +1,90 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/projects/GoLandWorkspace">
+          <value>
+            <RecentProjectMetaInfo frameTitle="GoLandWorkspace – Welcome to GoLand" hidden="true" projectWorkspaceId="32H24V9d7tFQlle2y60gjcxCaMc">
+              <option name="activationTimestamp" value="1757063322102" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-252.25557.175" />
+              <option name="buildTimestamp" value="1756824420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1757063297646" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GolandProjects/test-app-engine">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test-app-engine – test_app_engine.go" projectWorkspaceId="33bplxGRMU5ygKwWymih7IDkCR0">
+              <option name="activationTimestamp" value="1759596169892" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-252.26830.102" />
+              <option name="buildTimestamp" value="1759467960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1759595780626" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GolandProjects/unknown">
+          <value>
+            <RecentProjectMetaInfo frameTitle="unknown – go.mod" projectWorkspaceId="32H2kqgTsB6bJapYUtflovt4Jwv">
+              <option name="activationTimestamp" value="1759604451238" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-252.26830.102" />
+              <option name="buildTimestamp" value="1759467960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1759596170268" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GolandProjects/again">
+          <value>
+            <RecentProjectMetaInfo frameTitle="again – main.go" projectWorkspaceId="33c7LcYSv1zIC0FO1K0PG4YSazw">
+              <option name="activationTimestamp" value="1763756463622" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-252.26830.102" />
+              <option name="buildTimestamp" value="1759467960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1759604451888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/reviewer-service">
+          <value>
+            <RecentProjectMetaInfo frameTitle="reviewer-service" opened="true" projectWorkspaceId="35nr2BR6fcWdjN9uYOtPtlhER1x">
+              <option name="activationTimestamp" value="1763931632224" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-252.27397.100" />
+              <option name="buildTimestamp" value="1761196260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1763756466598" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/reviewer-service" />
+    <option name="lastProjectLocation" value="$USER_HOME$/GolandProjects" />
+  </component>
+</application>

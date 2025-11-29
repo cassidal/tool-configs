@@ -1,0 +1,39 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledCategories">
+      <list>
+        <option value="PLUGINS" />
+      </list>
+    </option>
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="Docker" />
+              <option value="GrepConsole" />
+              <option value="IdeaVIM" />
+              <option value="Key Promoter X" />
+              <option value="Subversion" />
+              <option value="bundled" />
+              <option value="com.github.copilot" />
+              <option value="com.intellij.ml.llm" />
+              <option value="com.intellij.properties" />
+              <option value="com.intellij.tasks" />
+              <option value="com.intellij.velocity" />
+              <option value="izhangzhihao.rainbow.brackets" />
+              <option value="org.intellij.plugins.hcl" />
+              <option value="org.jetbrains.jumpToLine" />
+              <option value="org.jetbrains.junie" />
+              <option value="org.jetbrains.plugins.go" />
+              <option value="org.jetbrains.security.package-checker" />
+              <option value="ru.adelf.idea.dotenv" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>

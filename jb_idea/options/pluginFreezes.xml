@@ -1,0 +1,17 @@
+<application>
+  <component name="PluginFreezes">
+    <option name="latestNotificationTime">
+      <map>
+        <entry key="GrepConsole" value="2025-09-23T15:21:03.277468033Z" />
+      </map>
+    </option>
+    <option name="mutedPlugins">
+      <list>
+        <MutedPlugin>
+          <option name="ideVersion" value="2025.2.1" />
+          <option name="pluginId" value="GrepConsole" />
+        </MutedPlugin>
+      </list>
+    </option>
+  </component>
+</application>

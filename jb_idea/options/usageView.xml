@@ -1,0 +1,8 @@
+<application>
+  <component name="GoUsageSettings">
+    <option name="SHOW_USAGES_IN_COMMENTS" value="false" />
+  </component>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
+  </component>
+</application>

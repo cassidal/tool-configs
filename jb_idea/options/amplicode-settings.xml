@@ -1,0 +1,11 @@
+<application>
+  <component name="AmplicodeFeatureSuggesterState">
+    <suggestionLastShownTime>
+      <entry key="Amplicode autowire" value="1760800201105" />
+      <entry key="Amplicode create dto" value="1761041316693" />
+    </suggestionLastShownTime>
+  </component>
+  <component name="ScreenSettings">
+    <option name="whatsNewShownFor" value="2025.2.1-252" />
+  </component>
+</application>

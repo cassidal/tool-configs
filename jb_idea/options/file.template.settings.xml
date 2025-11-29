@@ -1,0 +1,11 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="JpaEntity.java" file-name="${NAME}" reformat="true" live-template-enabled="false" />
+    </default_templates>
+    <internal_templates>
+      <template name="Jsp File.jsp" reformat="true" live-template-enabled="true" />
+      <template name="Jspx File.jspx" reformat="true" live-template-enabled="true" />
+    </internal_templates>
+  </component>
+</application>

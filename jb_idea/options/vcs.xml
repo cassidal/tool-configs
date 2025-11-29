@@ -1,0 +1,5 @@
+<application>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$ARCADIA_ROOT$/cloud/cloud-java/iam" />
+  </component>
+</application>

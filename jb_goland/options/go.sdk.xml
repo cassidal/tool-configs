@@ -1,0 +1,10 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-url>
+      <set>
+        <option value="file:///home/linuxbrew/.linuxbrew/Cellar/go/1.25.1/libexec" />
+        <option value="file:///usr/lib/golang" />
+      </set>
+    </sdk-url>
+  </component>
+</application>

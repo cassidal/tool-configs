@@ -1,0 +1,218 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/hello">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hello – Main.java" projectWorkspaceId="31pZM39Z7HQQusEQQJnBBF7Q4JQ">
+              <option name="activationTimestamp" value="1756552684090" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.23892.409" />
+              <option name="buildTimestamp" value="1754024820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2122" y="32" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1756222924049" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo – build.gradle (demo)" projectWorkspaceId="32cTkzFYEhzpS0VRTS5oQYyC6s1">
+              <option name="activationTimestamp" value="1758033097066" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.25557.131" />
+              <option name="buildTimestamp" value="1756326060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2215" y="32" width="1440" height="786" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1757719010157" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/photo-to-bytes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="photo-to-bytes – Main.java" projectWorkspaceId="32mkNcDcU0WfbJXEbJNXO6Rjx10">
+              <option name="activationTimestamp" value="1758352161343" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.25557.131" />
+              <option name="buildTimestamp" value="1756326060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1758033097738" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/cvhub">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cvhub" projectWorkspaceId="330LaVd9nOAyWHXzLOzLN9eGLwe">
+              <option name="activationTimestamp" value="1758449125038" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.25557.131" />
+              <option name="buildTimestamp" value="1756326060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1758449107296" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/grpc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="grpc" projectWorkspaceId="330ulovOVX80r9qbDjizxgzCc0N">
+              <option name="activationTimestamp" value="1758472002009" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.25557.131" />
+              <option name="buildTimestamp" value="1756326060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="2180" y="40" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1758450003744" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/auth-service">
+          <value>
+            <RecentProjectMetaInfo frameTitle="auth-service – SecurityConfig.java" projectWorkspaceId="330NfqAamSru42Cd5ONss0JNWc8">
+              <option name="activationTimestamp" value="1760686228024" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26830.84" />
+              <option name="buildTimestamp" value="1759360020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1760684362835" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/clear-spring">
+          <value>
+            <RecentProjectMetaInfo frameTitle="clear-spring – RemoteHostServiceImpl.java" projectWorkspaceId="33vToM30JtOMh7rCYaB1xUXWTHh">
+              <option name="activationTimestamp" value="1760903038008" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26830.84" />
+              <option name="buildTimestamp" value="1759360020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="470" y="0" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1760890038595" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/yandex-cup">
+          <value>
+            <RecentProjectMetaInfo frameTitle="yandex-cup – Main.java" projectWorkspaceId="34uryPhNaSU3nLI5UNulijfQhwH">
+              <option name="activationTimestamp" value="1762076077275" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1762074551814" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode">
+          <value>
+            <RecentProjectMetaInfo frameTitle="leetcode – Main.java" projectWorkspaceId="325bsmzPGaxB5Zr0BmjE2GOGFkM">
+              <option name="activationTimestamp" value="1762088535783" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1762076057952" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/minispring">
+          <value>
+            <RecentProjectMetaInfo frameTitle="minispring – pom.xml" projectWorkspaceId="35jjgJfUQBvZ1cSB0oo26en675E">
+              <option name="activationTimestamp" value="1763643178498" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1763630486471" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cvhub">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cvhub" projectWorkspaceId="33CpX7pZtwfSKA6MHISgUlRVBum">
+              <option name="activationTimestamp" value="1763714234616" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1979" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1763631742116" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.trash/kit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="kit – AuthController.java" projectWorkspaceId="35mTRNfchM962uWoi3AbYZ3Sr1U">
+              <option name="activationTimestamp" value="1764227494660" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1763714238634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.trash/tenderhack-2025/backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backend – README.md" opened="true" projectWorkspaceId="369HL6WfNrg3D5sCuljcXW4uhAU">
+              <option name="activationTimestamp" value="1764430536935" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1764411115693" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/.trash/tenderhack-2025/backend" />
+    <option name="lastProjectLocation" value="$USER_HOME$/.trash" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="ToStringTemplates" defaultTemplateName="toString with super">
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="toString with super" />
+          <option name="template" value="public java.lang.String toString() {&#10;#if ( $members.size() &gt; 0 )&#10;#set ( $i = 0 )&#10;    return &quot;$classname{&quot; +&#10;#foreach( $member in $members )&#10;#if ( $i == 0 )&#10;    &quot;##&#10;#else&#10;    &quot;, ##&#10;#end&#10;#if ( $member.objectArray )&#10;#if ($java_version &lt; 5)&#10;$member.name=&quot; + ($member.accessor == null ? null : java.util.Arrays.asList($member.accessor)) +&#10;#else&#10;$member.name=&quot; + java.util.Arrays.toString($member.accessor) +&#10;#end&#10;#elseif ( $member.primitiveArray &amp;&amp; $java_version &gt;= 5)&#10;$member.name=&quot; + java.util.Arrays.toString($member.accessor) +&#10;#elseif ( $member.string )&#10;$member.name='&quot; + $member.accessor + '\'' +&#10;#else&#10;$member.name=&quot; + $member.accessor +&#10;#end&#10;#set ( $i = $i + 1 )&#10;#end&#10;   #if ( $class.hasSuper &amp;&amp; !$helper.isAbstractSuperMethod($class, &quot;toString&quot;, $project) )&#10;   super.toString(); +&#10;       &quot;}&quot;;&#10;   #else&#10;   '}';&#10;   #end&#10;#else&#10;   #if ( $class.hasSuper &amp;&amp; !$helper.isAbstractSuperMethod($class, &quot;toString&quot;, $project))&#10;   return &quot;$classname{} &quot; + super.toString();&#10;   #else&#10;   return &quot;$classname{}&quot;;&#10;   #end&#10;#end&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>

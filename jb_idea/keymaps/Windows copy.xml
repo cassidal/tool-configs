@@ -1,0 +1,24 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Console.TableResult.SetNull" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Git.New.Branch.In.Log" />
+  <action id="GitNewBranchAction" />
+  <action id="GotoClass" />
+  <action id="Graph.AlignNodes.Right" />
+  <action id="Inline" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="android.device.rotate.right" />
+</keymap>

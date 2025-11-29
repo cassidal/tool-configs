@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.trash/kit" value="true" />
+        <entry key="$USER_HOME$/.trash/tenderhack-2025" value="true" />
+        <entry key="$USER_HOME$/.trash/tenderhack-2025/backend" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/clear-spring" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/cvhub" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/auth-service" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/clear-spring" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/cvhub" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/cvhub/grpc" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/demo" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/hello" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/leetcode" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/minispring" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/photo-to-bytes" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/yandex-cup" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

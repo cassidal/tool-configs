@@ -1,0 +1,52 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="unknown-f2525ff2">
+      <jump line="16" column="12" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="14" column="21" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="18" column="8" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="17" column="47" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="22" column="20" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="23" column="16" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="10" column="28" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+      <jump line="7" column="17" filename="$USER_HOME$/GolandProjects/unknown/main.go" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/GolandProjects/unknown/main.go" timestamp="1757196077899">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ZnVuYyBhcml0aG1ldGljVHJpcGxldHMobnVtcyBbXWludCwgZGlmZiBpbnQpIGludCB7CgljLCByIDo9IC0xLCAtMQoJY250IDo9IDAKCW4gOj0gbGVuKG51bXMpCglmb3IgbCA6PSAwOyBsIDwgbjsgbCsrIHsKCQlmb3IgOyBjIDwgbiAmJiBudW1zW2NdLW51bXNbbF0gPCBkaWZmOyBjKysgewoJCX0KCQlpZiBjID09IG4tMSB7CgkJCWJyZWFrCgkJfQoJCWlmIG51bXNbY10tbnVtc1tsXSAhPSBkaWZmIHsKCQkJY29udGludWUKCQl9CgoJCWZvciA7IHIgPCBuICYmIG51bXNbcl0tbnVtc1tjXSA8IGRpZmY7IHIrKyB7CgkJfQoJCWlmIHIgPT0gbi0xIHsKCQkJYnJlYWsKCQl9CgkJaWYgbnVtc1tyXS1udW1zW2NdICE9IGRpZmYgewoJCQljb250aW51ZQoJCX0KCgkJY250KysKCX0KCglyZXR1cm4gY250Cn0K</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ZnVuYyBhcml0aG1ldGljVHJpcGxldHMobnVtcyBbXWludCwgZGlmZiBpbnQpIGludCB7CgljLCByIDo9IC0xLCAtMQoJY250IDo9IDAKCW4gOj0gbGVuKG51bXMpCglmb3IgbCA6PSAwOyBsIDwgbjsgbCsrIHsKCQlmb3IgOyBjIDwgbiAmJiBudW1zW2NdLW51bXNbbF0gPCBkaWZmOyBjKysgewoJCX0KCQlpZiBjID09IG4tMSB7CgkJCWJyZWFrCgkJfQoJCWlmIG51bXNbY10tbnVtc1tsXSAhPSBkaWZmIHsKCQkJY29udGludWUKCQl9CgoJCWZvciA7IHIgPCBuICYmIG51bXNbcl0tbnVtc1tjXSA8IGRpZmY7IHIrKyB7CgkJfQoJCWlmIHIgPT0gbi0xIHsKCQkJYnJlYWsKCQl9CgkJaWYgbnVtc1tyXS1udW1zW2NdICE9IGRpZmYgewoJCQljb250aW51ZQoJCX0KCgkJY250KysKCX0KCglyZXR1cm4gY250Cn0K</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">ZnVuYyBhcml0aG1ldGljVHJpcGxldHMobnVtcyBbXWludCwgZGlmZiBpbnQpIGludCB7CgljLCByIDo9IC0xLCAtMQoJY250IDo9IDAKCW4gOj0gbGVuKG51bXMpCglmb3IgbCA6PSAwOyBsIDwgbjsgbCsrIHsKCQlmb3IgOyBjIDwgbiAmJiBudW1zW2NdLW51bXNbbF0gPCBkaWZmOyBjKysgewoJCX0KCQlpZiBjID09IG4tMSB7CgkJCWJyZWFrCgkJfQoJCWlmIG51bXNbY10tbnVtc1tsXSAhPSBkaWZmIHsKCQkJY29udGludWUKCQl9CgoJCWZvciA7IHIgPCBuICYmIG51bXNbcl0tbnVtc1tjXSA8IGRpZmY7IHIrKyB7CgkJfQoJCWlmIHIgPT0gbi0xIHsKCQkJYnJlYWsKCQl9CgkJaWYgbnVtc1tyXS1udW1zW2NdICE9IGRpZmYgewoJCQljb250aW51ZQoJCX0KCgkJY250KysKCX0KCglyZXR1cm4gY250Cn0K</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">aWYgYyA9PSBuIC0gMSAiInx8IGJyZWFkaw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

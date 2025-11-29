@@ -1,0 +1,8 @@
+alias ll='ls -ahl'
+alias nviminit='nvim ~/.config/nvim/init.lua'  
+alias nvimcd='cd ~/.config/nvim'
+
+alias clr='reset'
+
+# - - - > Terraform < - - -
+alias tf='terraform'
