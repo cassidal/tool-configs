@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Absolute Path">
+        <Item>
+          <IdeaActionID>CopyAbsolutePath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Absolute Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>CollapseAll</IdeaActionID>
@@ -14,7 +22,16 @@
           <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Commit</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
           <Count>2</Count>
+          <Hit>110</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -22,8 +39,8 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
           <Description>Debug</Description>
-          <Count>46</Count>
-          <Hit>34</Hit>
+          <Count>64</Count>
+          <Hit>46</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -39,7 +56,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete…</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -47,8 +64,8 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Directory</Description>
-          <Count>6</Count>
-          <Hit>9</Hit>
+          <Count>9</Count>
+          <Hit>29</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression…">
@@ -56,7 +73,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression…</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -73,7 +90,8 @@
           <IdeaActionID>NewFile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+N'</ShortCut>
           <Description>File</Description>
-          <Count>1</Count>
+          <Count>6</Count>
+          <Hit>7</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go File">
@@ -81,8 +99,8 @@
           <IdeaActionID>Go.NewGoFile</IdeaActionID>
           <ShortCut>'Ctrl+N'</ShortCut>
           <Description>Go File</Description>
-          <Count>12</Count>
-          <Hit>20</Hit>
+          <Count>18</Count>
+          <Hit>48</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Declaration or Usages">
@@ -91,7 +109,15 @@
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
           <Count>8</Count>
-          <Hit>111</Hit>
+          <Hit>229</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B'</ShortCut>
+          <Description>Go to Implementation(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to Type Declaration">
@@ -99,8 +125,8 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Go to Type Declaration</Description>
-          <Count>2</Count>
-          <Hit>1</Hit>
+          <Count>4</Count>
+          <Hit>7</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -119,12 +145,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>Documentation.EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New File or Directory…">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>New File or Directory…</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Tab">
         <Item>
           <IdeaActionID>Terminal.NewTab</IdeaActionID>
           <ShortCut>'Ctrl+Shift+T'</ShortCut>
           <Description>New Tab</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Chat">
@@ -140,7 +182,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -156,8 +198,8 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
           <Description>Restart Debug</Description>
-          <Count>50</Count>
-          <Hit>13</Hit>
+          <Count>53</Count>
+          <Hit>25</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -173,7 +215,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>98</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -181,8 +223,8 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10' or 'Alt+R'</ShortCut>
           <Description>Run</Description>
-          <Count>55</Count>
-          <Hit>138</Hit>
+          <Count>75</Count>
+          <Hit>267</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -198,7 +240,8 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings…</Description>
-          <Count>32</Count>
+          <Count>33</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Context Actions">
@@ -207,7 +250,7 @@
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Context Actions</Description>
           <Count>1</Count>
-          <Hit>64</Hit>
+          <Hit>111</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Main'">
@@ -226,11 +269,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Test_toDayScheduleEntity/single_valid_subject in calendar-importer/internal/fetcher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'Test_toDayScheduleEntity/single_valid_subject in calendar-importer/internal/fetcher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'app'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'app'</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'go build again'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
           <Description>Stop 'go build again'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'go build leetcode'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'go build leetcode'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -248,6 +315,15 @@
           <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
           <Description>Stop 'reviewer-service'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'run'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'run'</Description>
+          <Count>2</Count>
+          <Hit>5</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -271,8 +347,8 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>20</Count>
-          <Hit>3</Hit>
+          <Count>40</Count>
+          <Hit>5</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -280,7 +356,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>149</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
     </option>

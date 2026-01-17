@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-  </component>
   <component name="CodeVisionSettings">
     <option name="enabled" value="false" />
   </component>
@@ -14,6 +11,9 @@
         <entry key="java.annotation.hints#showInferred" value="true" />
       </map>
     </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />

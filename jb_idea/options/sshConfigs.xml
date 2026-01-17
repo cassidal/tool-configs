@@ -3,6 +3,8 @@
     <configs>
       <sshConfig authType="PASSWORD" host="185.42.14.191" id="2e2f9bfa-ed87-48db-adfd-0abf2f47da9a" port="22" nameFormat="DESCRIPTIVE" username="aome" useOpenSSHConfig="true" />
       <sshConfig host="185.42.14.191" id="a9b0a288-698c-438d-930c-8326c2961c1b" keyPath="$USER_HOME$/.ssh/timeweb" port="22" nameFormat="DESCRIPTIVE" username="aome" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="cassidal.ru" id="1dbe68c8-ef2e-4022-8cd3-8a20492533c5" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="5.129.242.74" id="b36c08a7-e364-4e22-b3bb-7801fb90bbaa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>

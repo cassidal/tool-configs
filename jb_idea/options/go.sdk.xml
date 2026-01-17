@@ -3,8 +3,6 @@
     <sdk-url>
       <set>
         <option value="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.25.4.linux-amd64" />
-        <option value="file:///home/linuxbrew/.linuxbrew/Cellar/go/1.25.1/libexec" />
-        <option value="file:///usr/lib/golang" />
       </set>
     </sdk-url>
   </component>

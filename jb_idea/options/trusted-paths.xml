@@ -5,6 +5,10 @@
         <entry key="$USER_HOME$/.trash/kit" value="true" />
         <entry key="$USER_HOME$/.trash/tenderhack-2025" value="true" />
         <entry key="$USER_HOME$/.trash/tenderhack-2025/backend" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/tender-remake" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest-old" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest_old" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/clear-spring" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/cvhub" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/cvhub/auth-service" value="true" />
@@ -16,6 +20,12 @@
         <entry key="$USER_HOME$/IdeaProjects/leetcode" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/minispring" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/photo-to-bytes" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/s3-saver" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/shapki" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/backend" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/s3-saver" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/test" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/shapki/backend" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/yandex-cup" value="true" />
       </map>
     </option>

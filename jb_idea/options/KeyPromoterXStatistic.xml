@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add Row">
@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add Row</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>1</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>CollapseAll</IdeaActionID>
@@ -41,22 +49,21 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>Column Selection Mode</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Comment with Line Comment">
         <Item>
           <IdeaActionID>CommentByLineComment</IdeaActionID>
           <ShortCut>'Ctrl+/' or 'Ctrl+NumPad /'</ShortCut>
           <Description>Comment with Line Comment</Description>
-          <Count>1</Count>
-          <Hit>10</Hit>
-        </Item>
-      </Statistic>
-      <Statistic Action="Commit">
-        <Item>
-          <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
-          <ShortCut>'Alt+0'</ShortCut>
-          <Description>Commit</Description>
-          <Count>39</Count>
-          <Hit>1</Hit>
+          <Count>3</Count>
+          <Hit>63</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -64,8 +71,24 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>5</Count>
-          <Hit>307</Hit>
+          <Count>28</Count>
+          <Hit>1640</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Problem Description">
+        <Item>
+          <IdeaActionID>ProblemsView.CopyProblemDescription</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy Problem Description</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -73,7 +96,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>4</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Deactivate">
@@ -82,15 +105,7 @@
           <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
           <Description>Deactivate</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
-          <Description>Debug</Description>
-          <Count>195</Count>
-          <Hit>50</Hit>
+          <Hit>4</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Declaration or Usages">
@@ -114,7 +129,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete…</Description>
-          <Count>26</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -122,8 +137,32 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Directory</Description>
-          <Count>2</Count>
-          <Hit>12</Hit>
+          <Count>10</Count>
+          <Hit>17</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
+          <ShortCut>'Enter' or 'Alt+Enter' or 'F2'</ShortCut>
+          <Description>Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Changelist…">
+        <Item>
+          <IdeaActionID>ChangesView.Rename</IdeaActionID>
+          <ShortCut>'F2' or 'Shift+F6'</ShortCut>
+          <Description>Edit Changelist…</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Enable Completions">
+        <Item>
+          <IdeaActionID>copilot.enableCopilot</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
+          <Description>Enable Completions</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression…">
@@ -131,7 +170,16 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression…</Description>
-          <Count>19</Count>
+          <Count>52</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>9</Count>
+          <Hit>67</Hit>
         </Item>
       </Statistic>
       <Statistic Action="File">
@@ -139,8 +187,8 @@
           <IdeaActionID>NewFile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+N'</ShortCut>
           <Description>File</Description>
-          <Count>7</Count>
-          <Hit>22</Hit>
+          <Count>16</Count>
+          <Hit>35</Hit>
         </Item>
       </Statistic>
       <Statistic Action="File Structure">
@@ -149,6 +197,15 @@
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>File Structure</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>2</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -165,7 +222,7 @@
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
           <Count>95</Count>
-          <Hit>305</Hit>
+          <Hit>1300</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Implementation(s)">
@@ -174,7 +231,7 @@
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Go to Implementation(s)</Description>
           <Count>1</Count>
-          <Hit>87</Hit>
+          <Hit>101</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Type Declaration">
@@ -182,8 +239,8 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Go to Type Declaration</Description>
-          <Count>8</Count>
-          <Hit>10</Hit>
+          <Count>15</Count>
+          <Hit>13</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Grep">
@@ -199,7 +256,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -207,8 +264,8 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Ctrl+N'</ShortCut>
           <Description>Java Class</Description>
-          <Count>2</Count>
-          <Hit>89</Hit>
+          <Count>13</Count>
+          <Hit>266</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Query Console…">
@@ -216,7 +273,15 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Query Console…</Description>
-          <Count>3</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Query File…">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Jump to Query File…</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -224,7 +289,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>55</Count>
+          <Count>156</Count>
           <Hit>12</Hit>
         </Item>
       </Statistic>
@@ -233,7 +298,24 @@
           <IdeaActionID>ChangesView.GroupBy.Module</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Module</Description>
-          <Count>1</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Files to Another Changelist…">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move Files to Another Changelist…</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist…">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move to Another Changelist…</Description>
+          <Count>4</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Navigation Bar">
@@ -252,12 +334,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New File or Directory…">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>New File or Directory…</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Tab">
         <Item>
           <IdeaActionID>Terminal.NewTab</IdeaActionID>
           <ShortCut>'Ctrl+Shift+T'</ShortCut>
           <Description>New Tab</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
@@ -265,7 +355,8 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Package</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+          <Hit>18</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -273,7 +364,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>42</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure…">
@@ -281,7 +372,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure…</Description>
-          <Count>11</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -289,15 +380,41 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Property">
+        <Item>
+          <IdeaActionID>refactoring.introduce.property</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+V'</ShortCut>
+          <Description>Property</Description>
+          <Count>2</Count>
+          <Hit>6</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Query Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.New.Generate</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Q'</ShortCut>
+          <Description>Query Console</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Refresh">
+      <Statistic Action="Query File">
         <Item>
-          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Refresh</Description>
-          <Count>19</Count>
+          <IdeaActionID>Jdbc.OpenConsole.New.Generate</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Q'</ShortCut>
+          <Description>Query File</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+          <Hit>320</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -305,7 +422,23 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>6</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>UsageView.Remove</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Remove</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Data Source… ">
+        <Item>
+          <IdeaActionID>DatabaseView.DropAction</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Data Source…</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename…">
@@ -313,8 +446,8 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename…</Description>
-          <Count>2</Count>
-          <Hit>79</Hit>
+          <Count>3</Count>
+          <Hit>231</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -322,6 +455,14 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductControllerIntegrationTest.testListProducts_WithMultipleSizes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ProductControllerIntegrationTest.testListProducts_WithMultipleSizes'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -334,13 +475,13 @@
           <Hit>1</Hit>
         </Item>
       </Statistic>
-      <Statistic Action="Restart Debug">
+      <Statistic Action="Rerun 'Spring Boot: ShapkiApplication'">
         <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
-          <Description>Restart Debug</Description>
-          <Count>80</Count>
-          <Hit>12</Hit>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt+R'</ShortCut>
+          <Description>Rerun 'Spring Boot: ShapkiApplication'</Description>
+          <Count>6</Count>
+          <Hit>7</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -348,7 +489,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -356,7 +497,15 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>178</Count>
+          <Count>553</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert Selected">
+        <Item>
+          <IdeaActionID>Console.TableResult.RevertSelected</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert Selected</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback…">
@@ -364,16 +513,23 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback…</Description>
-          <Count>6</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
+      <Statistic Action="Run to Cursor">
         <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10' or 'Alt+R'</ShortCut>
-          <Description>Run</Description>
-          <Count>125</Count>
-          <Hit>101</Hit>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+Shift+9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Scratch</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>Scratch File</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Services">
@@ -381,6 +537,14 @@
           <IdeaActionID>ActivateServicesToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Services</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Active Changelist">
+        <Item>
+          <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
+          <ShortCut>'Ctrl+Space'</ShortCut>
+          <Description>Set Active Changelist</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -389,7 +553,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings…</Description>
-          <Count>103</Count>
+          <Count>120</Count>
           <Hit>2</Hit>
         </Item>
       </Statistic>
@@ -398,8 +562,80 @@
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Context Actions</Description>
-          <Count>4</Count>
-          <Hit>411</Hit>
+          <Count>13</Count>
+          <Hit>1065</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>Docker.RemoteServers.StopComposeApp</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'AdminControllerIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminProductControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'AdminProductControllerIntegrationTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminProductControllerIntegrationTest.testCreateProduct_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'AdminProductControllerIntegrationTest.testCreateProduct_Success'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminProductControllerIntegrationTest.testUpdateProduct_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'AdminProductControllerIntegrationTest.testUpdateProduct_Success'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AuthIntegrationTest.registerSuccess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'AuthIntegrationTest.registerSuccess'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AuthServiceApplication'">
@@ -436,6 +672,79 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CartControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CartControllerIntegrationTest'</Description>
+          <Count>2</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CartControllerIntegrationTest.testActivatePromoCode_100PercentDiscount_Free'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CartControllerIntegrationTest.testActivatePromoCode_100PercentDiscount_Free'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CartControllerIntegrationTest.testCart_WithMultipleItems'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CartControllerIntegrationTest.testCart_WithMultipleItems'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CatalogControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CatalogControllerIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CatalogControllerIntegrationTest.testListProducts_Validation_InvalidSortField'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CatalogControllerIntegrationTest.testListProducts_Validation_InvalidSortField'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CatalogControllerIntegrationTest.testListProducts_Validation_ValidFilterFields'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CatalogControllerIntegrationTest.testListProducts_Validation_ValidFilterFields'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CategoryControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CategoryControllerIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CategoryControllerIntegrationTest.testGetPopularCategories_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'CategoryControllerIntegrationTest.testGetPopularCategories_Success'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HomePageControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'HomePageControllerIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InternalErrorTests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -460,6 +769,30 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OrderControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'OrderControllerIntegrationTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderControllerIntegrationTest.testCreateOrder_MultipleItems'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'OrderControllerIntegrationTest.testCreateOrder_MultipleItems'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderControllerIntegrationTest.testCreateOrder_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'OrderControllerIntegrationTest.testCreateOrder_Success'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PrivateAuthGrpcServerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -473,6 +806,46 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
           <Description>Stop 'PrivateAuthGrpcServerTest.isAuthenticated_fail_unauthenticated_expiredAccessToken'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductControllerIntegrationTest.testGetNewArrivals_WithNegativeCount'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ProductControllerIntegrationTest.testGetNewArrivals_WithNegativeCount'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductControllerIntegrationTest.testListProducts_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ProductControllerIntegrationTest.testListProducts_Success'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductControllerIntegrationTest.testListProducts_WithComplexFilters'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ProductControllerIntegrationTest.testListProducts_WithComplexFilters'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductControllerIntegrationTest.testListProducts_WithSortByPriceAsc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ProductControllerIntegrationTest.testListProducts_WithSortByPriceAsc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProductControllerIntegrationTest.testSearchSuggest_Success'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ProductControllerIntegrationTest.testSearchSuggest_Success'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -492,12 +865,46 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'controller in shapki'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'controller in shapki'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'java in bank-rest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'java in bank-rest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'local'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'local'</Description>
+          <Count>3</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'shapki.ru'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'shapki.ru'</Description>
+          <Count>9</Count>
+          <Hit>5</Hit>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -505,7 +912,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -513,7 +920,15 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>3</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Super Class or Interface">
+        <Item>
+          <IdeaActionID>GotoSuperMethod</IdeaActionID>
+          <ShortCut>'Ctrl+U'</ShortCut>
+          <Description>Super Class or Interface</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Sync Maven Changes">
@@ -521,25 +936,16 @@
           <IdeaActionID>ExternalSystem.ProjectRefreshAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+O'</ShortCut>
           <Description>Sync Maven Changes</Description>
-          <Count>54</Count>
+          <Count>72</Count>
           <Hit>1</Hit>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
+      <Statistic Action="Unshelve…">
         <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>48</Count>
-          <Hit>2</Hit>
-        </Item>
-      </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>254</Count>
+          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+U'</ShortCut>
+          <Description>Unshelve…</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable…">
@@ -548,6 +954,100 @@
           <ShortCut>'Ctrl+Alt+V'</ShortCut>
           <Description>Variable…</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View assertEquals Difference">
+        <Item>
+          <IdeaActionID>openAssertEqualsDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>View assertEquals Difference</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Commit">
+        <Item>
+          <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Commit</Description>
+          <Count>162</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <Description>Database</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Debug</Description>
+          <Count>310</Count>
+          <Hit>157</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Drop…">
+        <Item>
+          <IdeaActionID>DatabaseView.DropAction</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Drop…</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>76</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restart Debug">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9' or 'Alt+D'</ShortCut>
+          <Description>Restart Debug</Description>
+          <Count>97</Count>
+          <Hit>81</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt+R'</ShortCut>
+          <Description>Run</Description>
+          <Count>261</Count>
+          <Hit>164</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ShapkiApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Alt+S'</ShortCut>
+          <Description>Stop 'ShapkiApplication'</Description>
+          <Count>41</Count>
+          <Hit>15</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>134</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>719</Count>
         </Item>
       </Statistic>
     </option>

@@ -1,0 +1,9 @@
+<application>
+  <component name="KubernetesApiSettings">
+    <option name="connectedClusters">
+      <list>
+        <option value="minikube" />
+      </list>
+    </option>
+  </component>
+</application>

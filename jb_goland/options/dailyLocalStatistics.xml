@@ -1,1371 +1,6 @@
 <application>
   <component name="DailyLocalStatistics">
     <dateToStats>
-      <entry key="2025-10-14-12">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="129" />
-                <distribution>
-                  <entry key="Language: go" value="129" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="129" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="3" />
-                  <entry key="CARET_CHANGED" value="3" />
-                  <entry key="EMPTY" value="62" />
-                  <entry key="INVALIDATED" value="53" />
-                  <entry key="SELECTED" value="5" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="23" />
-                <option name="sum" value="50.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="23" />
-                <option name="sum" value="5.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="129" />
-                <distribution>
-                  <entry key="false" value="106" />
-                  <entry key="true" value="23" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-14-16">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="36" />
-                <distribution>
-                  <entry key="Language: go" value="36" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="36" />
-                <distribution>
-                  <entry key="EMPTY" value="14" />
-                  <entry key="INVALIDATED" value="22" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="3" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="3" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="36" />
-                <distribution>
-                  <entry key="false" value="33" />
-                  <entry key="true" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-15-20">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="510" />
-                <distribution>
-                  <entry key="Language: go" value="510" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="510" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="7" />
-                  <entry key="CARET_CHANGED" value="2" />
-                  <entry key="EMPTY" value="238" />
-                  <entry key="INVALIDATED" value="233" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="26" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="71" />
-                <option name="sum" value="371.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="71" />
-                <option name="sum" value="26.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="510" />
-                <distribution>
-                  <entry key="false" value="439" />
-                  <entry key="true" value="71" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-15-21">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="28" />
-                <distribution>
-                  <entry key="Language: go" value="28" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="28" />
-                <distribution>
-                  <entry key="EMPTY" value="26" />
-                  <entry key="INVALIDATED" value="1" />
-                  <entry key="SELECTED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="1" />
-                <option name="sum" value="5.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="1" />
-                <option name="sum" value="1.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="28" />
-                <distribution>
-                  <entry key="false" value="27" />
-                  <entry key="true" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-16-17">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="86" />
-                <distribution>
-                  <entry key="Language: go" value="86" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="86" />
-                <distribution>
-                  <entry key="EMPTY" value="54" />
-                  <entry key="INVALIDATED" value="30" />
-                  <entry key="SELECTED" value="1" />
-                  <entry key="TYPED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="7" />
-                <option name="sum" value="9.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="7" />
-                <option name="sum" value="1.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="86" />
-                <distribution>
-                  <entry key="false" value="79" />
-                  <entry key="true" value="7" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-16-18">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="419" />
-                <distribution>
-                  <entry key="Language: go" value="419" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="419" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="7" />
-                  <entry key="CARET_CHANGED" value="5" />
-                  <entry key="EMPTY" value="202" />
-                  <entry key="INVALIDATED" value="189" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="13" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="52" />
-                <option name="sum" value="214.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="52" />
-                <option name="sum" value="13.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="419" />
-                <distribution>
-                  <entry key="false" value="367" />
-                  <entry key="true" value="52" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-11">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="173" />
-                <distribution>
-                  <entry key="Language: go" value="173" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="173" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="1" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="97" />
-                  <entry key="INVALIDATED" value="70" />
-                  <entry key="SELECTED" value="2" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="8" />
-                <option name="sum" value="21.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="8" />
-                <option name="sum" value="2.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="173" />
-                <distribution>
-                  <entry key="false" value="165" />
-                  <entry key="true" value="8" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-12">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="420" />
-                <distribution>
-                  <entry key="Language: go" value="420" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="420" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="45" />
-                  <entry key="CARET_CHANGED" value="11" />
-                  <entry key="EMPTY" value="148" />
-                  <entry key="INVALIDATED" value="203" />
-                  <entry key="SELECTED" value="12" />
-                  <entry key="TYPED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="61" />
-                <option name="sum" value="240.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="61" />
-                <option name="sum" value="13.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="420" />
-                <distribution>
-                  <entry key="false" value="359" />
-                  <entry key="true" value="61" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-19">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="2" />
-                <distribution>
-                  <entry key="Language: go" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="2" />
-                <distribution>
-                  <entry key="INVALIDATED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="2" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="2" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="2" />
-                <distribution>
-                  <entry key="true" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-20">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="328" />
-                <distribution>
-                  <entry key="Language: go" value="328" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="328" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="40" />
-                  <entry key="CARET_CHANGED" value="3" />
-                  <entry key="EMPTY" value="135" />
-                  <entry key="INVALIDATED" value="134" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="9" />
-                  <entry key="TYPED" value="5" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="64" />
-                <option name="sum" value="417.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="64" />
-                <option name="sum" value="27.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="328" />
-                <distribution>
-                  <entry key="false" value="264" />
-                  <entry key="true" value="64" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-22">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="159" />
-                <distribution>
-                  <entry key="Language: go" value="159" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="159" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="7" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="72" />
-                  <entry key="INVALIDATED" value="64" />
-                  <entry key="MOUSE_PRESSED" value="3" />
-                  <entry key="SELECTED" value="3" />
-                  <entry key="TYPED" value="9" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="34" />
-                <option name="sum" value="60.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="34" />
-                <option name="sum" value="3.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="159" />
-                <distribution>
-                  <entry key="false" value="125" />
-                  <entry key="true" value="34" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-3-23">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="333" />
-                <distribution>
-                  <entry key="Language: go" value="333" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="333" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="9" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="130" />
-                  <entry key="INVALIDATED" value="152" />
-                  <entry key="MOUSE_PRESSED" value="6" />
-                  <entry key="SELECTED" value="29" />
-                  <entry key="TYPED" value="6" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="79" />
-                <option name="sum" value="618.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="79" />
-                <option name="sum" value="29.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="333" />
-                <distribution>
-                  <entry key="false" value="254" />
-                  <entry key="true" value="79" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-4-18">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="98" />
-                <distribution>
-                  <entry key="Language: go" value="98" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="98" />
-                <distribution>
-                  <entry key="EMPTY" value="48" />
-                  <entry key="INVALIDATED" value="45" />
-                  <entry key="SELECTED" value="4" />
-                  <entry key="TYPED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="12" />
-                <option name="sum" value="61.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="12" />
-                <option name="sum" value="4.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="98" />
-                <distribution>
-                  <entry key="false" value="86" />
-                  <entry key="true" value="12" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-4-19">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="142" />
-                <distribution>
-                  <entry key="Language: go" value="135" />
-                  <entry key="Language: vgo" value="7" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="142" />
-                <distribution>
-                  <entry key="EMPTY" value="103" />
-                  <entry key="INVALIDATED" value="37" />
-                  <entry key="SELECTED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="3" />
-                <option name="sum" value="38.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="3" />
-                <option name="sum" value="2.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="142" />
-                <distribution>
-                  <entry key="false" value="139" />
-                  <entry key="true" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-4-21">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="125" />
-                <distribution>
-                  <entry key="Language: go" value="125" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="125" />
-                <distribution>
-                  <entry key="EMPTY" value="87" />
-                  <entry key="INVALIDATED" value="36" />
-                  <entry key="SELECTED" value="1" />
-                  <entry key="TYPED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="5" />
-                <option name="sum" value="4.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="5" />
-                <option name="sum" value="1.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="125" />
-                <distribution>
-                  <entry key="false" value="120" />
-                  <entry key="true" value="5" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-4-22">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="85" />
-                <distribution>
-                  <entry key="Language: go" value="80" />
-                  <entry key="Language: vgo" value="5" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="85" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="1" />
-                  <entry key="EMPTY" value="45" />
-                  <entry key="INVALIDATED" value="33" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="2" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="12" />
-                <option name="sum" value="35.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="12" />
-                <option name="sum" value="2.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="85" />
-                <distribution>
-                  <entry key="false" value="73" />
-                  <entry key="true" value="12" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-5-21">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="126" />
-                <distribution>
-                  <entry key="Language: go" value="126" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="126" />
-                <distribution>
-                  <entry key="CARET_CHANGED" value="2" />
-                  <entry key="EMPTY" value="61" />
-                  <entry key="INVALIDATED" value="60" />
-                  <entry key="SELECTED" value="2" />
-                  <entry key="TYPED" value="1" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="8" />
-                <option name="sum" value="18.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="8" />
-                <option name="sum" value="2.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="126" />
-                <distribution>
-                  <entry key="false" value="118" />
-                  <entry key="true" value="8" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-5-9">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="222" />
-                <distribution>
-                  <entry key="Language: go" value="222" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="222" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="1" />
-                  <entry key="CARET_CHANGED" value="2" />
-                  <entry key="EMPTY" value="137" />
-                  <entry key="INVALIDATED" value="68" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="11" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="167.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="11.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="222" />
-                <distribution>
-                  <entry key="false" value="201" />
-                  <entry key="true" value="21" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-10">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="629" />
-                <distribution>
-                  <entry key="Language: go" value="629" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="629" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="5" />
-                  <entry key="CARET_CHANGED" value="7" />
-                  <entry key="EMPTY" value="351" />
-                  <entry key="INVALIDATED" value="234" />
-                  <entry key="SELECTED" value="29" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="77" />
-                <option name="sum" value="402.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="77" />
-                <option name="sum" value="29.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="629" />
-                <distribution>
-                  <entry key="false" value="552" />
-                  <entry key="true" value="77" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-11">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="289" />
-                <distribution>
-                  <entry key="Language: go" value="289" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="289" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="3" />
-                  <entry key="CARET_CHANGED" value="3" />
-                  <entry key="EMPTY" value="141" />
-                  <entry key="INVALIDATED" value="122" />
-                  <entry key="SELECTED" value="17" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="34" />
-                <option name="sum" value="215.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="34" />
-                <option name="sum" value="17.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="289" />
-                <distribution>
-                  <entry key="false" value="255" />
-                  <entry key="true" value="34" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-17">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="649" />
-                <distribution>
-                  <entry key="Language: go" value="649" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="649" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="9" />
-                  <entry key="CARET_CHANGED" value="3" />
-                  <entry key="EMPTY" value="354" />
-                  <entry key="INVALIDATED" value="248" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="32" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="79" />
-                <option name="sum" value="740.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="79" />
-                <option name="sum" value="32.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="649" />
-                <distribution>
-                  <entry key="false" value="570" />
-                  <entry key="true" value="79" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-18">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="347" />
-                <distribution>
-                  <entry key="Language: go" value="347" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="347" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="4" />
-                  <entry key="EMPTY" value="185" />
-                  <entry key="INVALIDATED" value="140" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="14" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="40" />
-                <option name="sum" value="326.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="40" />
-                <option name="sum" value="14.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="347" />
-                <distribution>
-                  <entry key="false" value="307" />
-                  <entry key="true" value="40" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-20">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="26" />
-                <distribution>
-                  <entry key="Language: go" value="26" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="26" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="1" />
-                  <entry key="EMPTY" value="8" />
-                  <entry key="INVALIDATED" value="14" />
-                  <entry key="SELECTED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="4" />
-                <option name="sum" value="84.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="4" />
-                <option name="sum" value="3.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="26" />
-                <distribution>
-                  <entry key="false" value="22" />
-                  <entry key="true" value="4" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-21">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="135" />
-                <distribution>
-                  <entry key="Language: go" value="135" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="135" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="2" />
-                  <entry key="CARET_CHANGED" value="2" />
-                  <entry key="EMPTY" value="59" />
-                  <entry key="INVALIDATED" value="61" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="9" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="25" />
-                <option name="sum" value="117.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="25" />
-                <option name="sum" value="9.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="135" />
-                <distribution>
-                  <entry key="false" value="110" />
-                  <entry key="true" value="25" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-6-9">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="416" />
-                <distribution>
-                  <entry key="Language: go" value="416" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="416" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="8" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="205" />
-                  <entry key="INVALIDATED" value="176" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="21" />
-                  <entry key="TYPED" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="54" />
-                <option name="sum" value="558.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="54" />
-                <option name="sum" value="21.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="416" />
-                <distribution>
-                  <entry key="false" value="362" />
-                  <entry key="true" value="54" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-7-12">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="121" />
-                <distribution>
-                  <entry key="Language: go" value="121" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="121" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="2" />
-                  <entry key="EMPTY" value="50" />
-                  <entry key="INVALIDATED" value="59" />
-                  <entry key="MOUSE_PRESSED" value="1" />
-                  <entry key="SELECTED" value="7" />
-                  <entry key="TYPED" value="2" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="102.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="7.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="121" />
-                <distribution>
-                  <entry key="false" value="100" />
-                  <entry key="true" value="21" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-7-13">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="109" />
-                <distribution>
-                  <entry key="Language: go" value="109" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="109" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="3" />
-                  <entry key="EMPTY" value="52" />
-                  <entry key="INVALIDATED" value="48" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="4" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="13" />
-                <option name="sum" value="57.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="13" />
-                <option name="sum" value="4.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="109" />
-                <distribution>
-                  <entry key="false" value="96" />
-                  <entry key="true" value="13" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-7-14">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="209" />
-                <distribution>
-                  <entry key="Language: go" value="209" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="209" />
-                <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="1" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="121" />
-                  <entry key="INVALIDATED" value="73" />
-                  <entry key="SELECTED" value="13" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="28" />
-                <option name="sum" value="203.0" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="28" />
-                <option name="sum" value="13.0" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="209" />
-                <distribution>
-                  <entry key="false" value="181" />
-                  <entry key="true" value="28" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
-      <entry key="2025-10-7-15">
-        <DateState>
-          <values>
-            <entry key="file_language">
-              <MetricValue>
-                <option name="count" value="15" />
-                <distribution>
-                  <entry key="Language: go" value="15" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="finish_type">
-              <MetricValue>
-                <option name="count" value="15" />
-                <distribution>
-                  <entry key="EMPTY" value="6" />
-                  <entry key="INVALIDATED" value="9" />
-                </distribution>
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_length">
-              <MetricValue>
-                <option name="count" value="3" />
-              </MetricValue>
-            </entry>
-            <entry key="total_inserted_lines">
-              <MetricValue>
-                <option name="count" value="3" />
-              </MetricValue>
-            </entry>
-            <entry key="was_shown">
-              <MetricValue>
-                <option name="count" value="15" />
-                <distribution>
-                  <entry key="false" value="12" />
-                  <entry key="true" value="3" />
-                </distribution>
-              </MetricValue>
-            </entry>
-          </values>
-        </DateState>
-      </entry>
       <entry key="2025-11-22-11">
         <DateState>
           <values>
@@ -2275,142 +910,1582 @@
           </values>
         </DateState>
       </entry>
-      <entry key="2025-9-30-11">
+      <entry key="2025-11-30-19">
         <DateState>
           <values>
             <entry key="file_language">
               <MetricValue>
-                <option name="count" value="47" />
+                <option name="count" value="321" />
                 <distribution>
-                  <entry key="Language: go" value="47" />
+                  <entry key="Language: go" value="306" />
+                  <entry key="Language: vgo" value="15" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="finish_type">
               <MetricValue>
-                <option name="count" value="47" />
+                <option name="count" value="321" />
                 <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="15" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="12" />
-                  <entry key="INVALIDATED" value="15" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="2" />
+                  <entry key="BACKSPACE_PRESSED" value="53" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="83" />
+                  <entry key="INVALIDATED" value="165" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="11" />
+                  <entry key="TYPED" value="2" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="total_inserted_length">
               <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="102.0" />
+                <option name="count" value="59" />
+                <option name="sum" value="386.0" />
               </MetricValue>
             </entry>
             <entry key="total_inserted_lines">
               <MetricValue>
-                <option name="count" value="21" />
-                <option name="sum" value="2.0" />
+                <option name="count" value="59" />
+                <option name="sum" value="15.0" />
               </MetricValue>
             </entry>
             <entry key="was_shown">
               <MetricValue>
-                <option name="count" value="47" />
+                <option name="count" value="321" />
                 <distribution>
-                  <entry key="false" value="26" />
-                  <entry key="true" value="21" />
+                  <entry key="false" value="262" />
+                  <entry key="true" value="59" />
                 </distribution>
               </MetricValue>
             </entry>
           </values>
         </DateState>
       </entry>
-      <entry key="2025-9-7-0">
+      <entry key="2025-11-30-20">
         <DateState>
           <values>
             <entry key="file_language">
               <MetricValue>
-                <option name="count" value="406" />
+                <option name="count" value="15" />
                 <distribution>
-                  <entry key="Language: go" value="406" />
+                  <entry key="Language: go" value="15" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="finish_type">
               <MetricValue>
-                <option name="count" value="406" />
+                <option name="count" value="15" />
                 <distribution>
-                  <entry key="BACKSPACE_PRESSED" value="11" />
-                  <entry key="CARET_CHANGED" value="1" />
-                  <entry key="EMPTY" value="219" />
-                  <entry key="INVALIDATED" value="156" />
-                  <entry key="MOUSE_PRESSED" value="2" />
-                  <entry key="SELECTED" value="17" />
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="13" />
+                  <entry key="SELECTED" value="1" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="total_inserted_length">
               <MetricValue>
-                <option name="count" value="55" />
-                <option name="sum" value="219.0" />
+                <option name="count" value="2" />
+                <option name="sum" value="4.0" />
               </MetricValue>
             </entry>
             <entry key="total_inserted_lines">
               <MetricValue>
-                <option name="count" value="55" />
-                <option name="sum" value="17.0" />
+                <option name="count" value="2" />
+                <option name="sum" value="1.0" />
               </MetricValue>
             </entry>
             <entry key="was_shown">
               <MetricValue>
-                <option name="count" value="406" />
+                <option name="count" value="15" />
                 <distribution>
-                  <entry key="false" value="351" />
-                  <entry key="true" value="55" />
+                  <entry key="false" value="13" />
+                  <entry key="true" value="2" />
                 </distribution>
               </MetricValue>
             </entry>
           </values>
         </DateState>
       </entry>
-      <entry key="2025-9-7-1">
+      <entry key="2025-12-1-19">
         <DateState>
           <values>
             <entry key="file_language">
               <MetricValue>
-                <option name="count" value="33" />
+                <option name="count" value="1111" />
                 <distribution>
-                  <entry key="Language: go" value="33" />
+                  <entry key="Language: go" value="1111" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="finish_type">
               <MetricValue>
-                <option name="count" value="33" />
+                <option name="count" value="1111" />
                 <distribution>
-                  <entry key="EMPTY" value="17" />
-                  <entry key="INVALIDATED" value="12" />
-                  <entry key="SELECTED" value="3" />
+                  <entry key="BACKSPACE_PRESSED" value="36" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="735" />
+                  <entry key="INVALIDATED" value="303" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="33" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="83" />
+                <option name="sum" value="652.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="83" />
+                <option name="sum" value="33.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1111" />
+                <distribution>
+                  <entry key="false" value="1028" />
+                  <entry key="true" value="83" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-1-20">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="354" />
+                <distribution>
+                  <entry key="Language: go" value="354" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="354" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="41" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="206" />
+                  <entry key="INVALIDATED" value="88" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="13" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="56" />
+                <option name="sum" value="198.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="56" />
+                <option name="sum" value="13.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="354" />
+                <distribution>
+                  <entry key="false" value="298" />
+                  <entry key="true" value="56" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-2-20">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="288" />
+                <distribution>
+                  <entry key="Language: go" value="235" />
+                  <entry key="Language: yaml" value="53" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="288" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="27" />
+                  <entry key="CARET_CHANGED" value="5" />
+                  <entry key="EMPTY" value="75" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="154" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="21" />
+                  <entry key="TYPED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="71" />
+                <option name="sum" value="546.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="71" />
+                <option name="sum" value="23.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="288" />
+                <distribution>
+                  <entry key="false" value="217" />
+                  <entry key="true" value="71" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-2-21">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="497" />
+                <distribution>
+                  <entry key="Language: DotEnv" value="71" />
+                  <entry key="Language: go" value="426" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="497" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="77" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="98" />
+                  <entry key="INVALIDATED" value="290" />
+                  <entry key="MOUSE_PRESSED" value="7" />
+                  <entry key="SELECTED" value="20" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="136" />
+                <option name="sum" value="596.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="136" />
+                <option name="sum" value="20.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="497" />
+                <distribution>
+                  <entry key="false" value="361" />
+                  <entry key="true" value="136" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-2-22">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="Language: TEXT" value="1" />
+                  <entry key="Language: go" value="50" />
+                  <entry key="Language: yaml" value="47" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="13" />
+                  <entry key="EMPTY" value="30" />
+                  <entry key="INVALIDATED" value="51" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="1" />
                   <entry key="TYPED" value="1" />
                 </distribution>
               </MetricValue>
             </entry>
             <entry key="total_inserted_length">
               <MetricValue>
+                <option name="count" value="13" />
+                <option name="sum" value="21.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="13" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="98" />
+                <distribution>
+                  <entry key="false" value="85" />
+                  <entry key="true" value="13" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-20-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="2" />
+                <distribution>
+                  <entry key="Language: go" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="2" />
+                <distribution>
+                  <entry key="EMPTY" value="1" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="2" />
+                <distribution>
+                  <entry key="false" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-28-23">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1245" />
+                <distribution>
+                  <entry key="Language: GitIgnore" value="33" />
+                  <entry key="Language: TEXT" value="12" />
+                  <entry key="Language: go" value="1159" />
+                  <entry key="Language: yaml" value="41" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1245" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="26" />
+                  <entry key="CARET_CHANGED" value="8" />
+                  <entry key="EMPTY" value="837" />
+                  <entry key="INVALIDATED" value="339" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="27" />
+                  <entry key="TYPED" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="82" />
+                <option name="sum" value="785.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="82" />
+                <option name="sum" value="31.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1245" />
+                <distribution>
+                  <entry key="false" value="1163" />
+                  <entry key="true" value="82" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-0">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="415" />
+                <distribution>
+                  <entry key="Language: go" value="414" />
+                  <entry key="Language: yaml" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="415" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="12" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="295" />
+                  <entry key="INVALIDATED" value="98" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="7" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="15" />
+                <option name="sum" value="271.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="15" />
+                <option name="sum" value="7.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="415" />
+                <distribution>
+                  <entry key="false" value="400" />
+                  <entry key="true" value="15" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="375" />
+                <distribution>
+                  <entry key="Language: JSON" value="1" />
+                  <entry key="Language: go" value="368" />
+                  <entry key="Language: yaml" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="375" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="3" />
+                  <entry key="EMPTY" value="250" />
+                  <entry key="INVALIDATED" value="111" />
+                  <entry key="SELECTED" value="9" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="18" />
+                <option name="sum" value="106.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="18" />
+                <option name="sum" value="9.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="375" />
+                <distribution>
+                  <entry key="false" value="357" />
+                  <entry key="true" value="18" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="Language: go" value="363" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="183" />
+                  <entry key="INVALIDATED" value="164" />
+                  <entry key="SELECTED" value="8" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="20" />
+                <option name="sum" value="140.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="20" />
+                <option name="sum" value="8.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="false" value="343" />
+                  <entry key="true" value="20" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="Language: go" value="363" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="220" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="122" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="13" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="34" />
+                <option name="sum" value="274.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="34" />
+                <option name="sum" value="13.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="363" />
+                <distribution>
+                  <entry key="false" value="329" />
+                  <entry key="true" value="34" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="120" />
+                <distribution>
+                  <entry key="Language: go" value="120" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="120" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="93" />
+                  <entry key="INVALIDATED" value="25" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="2" />
+                <option name="sum" value="21.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="2" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="120" />
+                <distribution>
+                  <entry key="false" value="118" />
+                  <entry key="true" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-29-20">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="437" />
+                <distribution>
+                  <entry key="Language: go" value="437" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="437" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="312" />
+                  <entry key="INVALIDATED" value="116" />
+                  <entry key="SELECTED" value="5" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="17" />
+                <option name="sum" value="82.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="17" />
+                <option name="sum" value="5.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="437" />
+                <distribution>
+                  <entry key="false" value="420" />
+                  <entry key="true" value="17" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-3-21">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="479" />
+                <distribution>
+                  <entry key="Language: go" value="479" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="479" />
+                <distribution>
+                  <entry key="EMPTY" value="328" />
+                  <entry key="INVALIDATED" value="145" />
+                  <entry key="SELECTED" value="5" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="17" />
+                <option name="sum" value="126.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="17" />
+                <option name="sum" value="5.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="479" />
+                <distribution>
+                  <entry key="false" value="462" />
+                  <entry key="true" value="17" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-3-22">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1630" />
+                <distribution>
+                  <entry key="Language: go" value="1630" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1630" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="10" />
+                  <entry key="EMPTY" value="954" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="597" />
+                  <entry key="MOUSE_PRESSED" value="6" />
+                  <entry key="SELECTED" value="58" />
+                  <entry key="TYPED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="120" />
+                <option name="sum" value="1235.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="120" />
+                <option name="sum" value="58.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1630" />
+                <distribution>
+                  <entry key="false" value="1510" />
+                  <entry key="true" value="120" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-3-23">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="864" />
+                <distribution>
+                  <entry key="Language: go" value="864" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="864" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="8" />
+                  <entry key="CARET_CHANGED" value="2" />
+                  <entry key="EMPTY" value="464" />
+                  <entry key="INVALIDATED" value="339" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="46" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="78" />
+                <option name="sum" value="933.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="78" />
+                <option name="sum" value="46.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="864" />
+                <distribution>
+                  <entry key="false" value="786" />
+                  <entry key="true" value="78" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-30-0">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="697" />
+                <distribution>
+                  <entry key="Language: go" value="697" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="697" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="375" />
+                  <entry key="INVALIDATED" value="299" />
+                  <entry key="SELECTED" value="15" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="42" />
+                <option name="sum" value="274.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="42" />
+                <option name="sum" value="15.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="697" />
+                <distribution>
+                  <entry key="false" value="655" />
+                  <entry key="true" value="42" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-30-1">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1163" />
+                <distribution>
+                  <entry key="Language: go" value="1163" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1163" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="9" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="696" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="422" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="30" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="57" />
+                <option name="sum" value="623.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="57" />
+                <option name="sum" value="30.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1163" />
+                <distribution>
+                  <entry key="false" value="1106" />
+                  <entry key="true" value="57" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-30-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="225" />
+                <distribution>
+                  <entry key="Language: go" value="225" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="225" />
+                <distribution>
+                  <entry key="EMPTY" value="136" />
+                  <entry key="INVALIDATED" value="87" />
+                  <entry key="SELECTED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
                 <option name="count" value="5" />
-                <option name="sum" value="57.0" />
+                <option name="sum" value="17.0" />
               </MetricValue>
             </entry>
             <entry key="total_inserted_lines">
               <MetricValue>
                 <option name="count" value="5" />
-                <option name="sum" value="3.0" />
+                <option name="sum" value="2.0" />
               </MetricValue>
             </entry>
             <entry key="was_shown">
               <MetricValue>
-                <option name="count" value="33" />
+                <option name="count" value="225" />
                 <distribution>
-                  <entry key="false" value="28" />
+                  <entry key="false" value="220" />
                   <entry key="true" value="5" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-30-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="517" />
+                <distribution>
+                  <entry key="Language: go" value="517" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="517" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="EMPTY" value="286" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="211" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="14" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="23" />
+                <option name="sum" value="326.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="23" />
+                <option name="sum" value="14.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="517" />
+                <distribution>
+                  <entry key="false" value="494" />
+                  <entry key="true" value="23" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-4-0">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="154" />
+                <distribution>
+                  <entry key="Language: go" value="154" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="154" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="76" />
+                  <entry key="INVALIDATED" value="65" />
+                  <entry key="SELECTED" value="10" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="19" />
+                <option name="sum" value="193.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="19" />
+                <option name="sum" value="10.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="154" />
+                <distribution>
+                  <entry key="false" value="135" />
+                  <entry key="true" value="19" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-4-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1209" />
+                <distribution>
+                  <entry key="Language: go" value="1115" />
+                  <entry key="Language: yaml" value="94" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1209" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="147" />
+                  <entry key="CARET_CHANGED" value="20" />
+                  <entry key="EMPTY" value="379" />
+                  <entry key="INVALIDATED" value="588" />
+                  <entry key="MOUSE_PRESSED" value="12" />
+                  <entry key="SELECTED" value="60" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="258" />
+                <option name="sum" value="1775.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="258" />
+                <option name="sum" value="67.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1209" />
+                <distribution>
+                  <entry key="false" value="951" />
+                  <entry key="true" value="258" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-12-4-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="Language: go" value="7" />
+                  <entry key="Language: yaml" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="4" />
+                  <entry key="INVALIDATED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="2" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="2" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="9" />
+                <distribution>
+                  <entry key="false" value="7" />
+                  <entry key="true" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-10-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="306" />
+                <distribution>
+                  <entry key="Language: go" value="306" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="306" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="5" />
+                  <entry key="CARET_CHANGED" value="4" />
+                  <entry key="EMPTY" value="141" />
+                  <entry key="INVALIDATED" value="138" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="14" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="46" />
+                <option name="sum" value="228.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="46" />
+                <option name="sum" value="14.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="306" />
+                <distribution>
+                  <entry key="false" value="260" />
+                  <entry key="true" value="46" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-4-11">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="200" />
+                <distribution>
+                  <entry key="Language: go" value="198" />
+                  <entry key="Language: yaml" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="200" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="4" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="84" />
+                  <entry key="INVALIDATED" value="107" />
+                  <entry key="SELECTED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="10" />
+                <option name="sum" value="59.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="10" />
+                <option name="sum" value="4.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="200" />
+                <distribution>
+                  <entry key="false" value="190" />
+                  <entry key="true" value="10" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-4-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="634" />
+                <distribution>
+                  <entry key="Language: DotEnv" value="74" />
+                  <entry key="Language: go" value="560" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="634" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="47" />
+                  <entry key="CARET_CHANGED" value="8" />
+                  <entry key="EMPTY" value="362" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="189" />
+                  <entry key="MOUSE_PRESSED" value="4" />
+                  <entry key="SELECTED" value="22" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="90" />
+                <option name="sum" value="647.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="90" />
+                <option name="sum" value="24.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="634" />
+                <distribution>
+                  <entry key="false" value="544" />
+                  <entry key="true" value="90" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-4-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="Language: go" value="401" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="35" />
+                  <entry key="CARET_CHANGED" value="3" />
+                  <entry key="EMPTY" value="229" />
+                  <entry key="INVALIDATED" value="128" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="5" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="32" />
+                <option name="sum" value="162.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="32" />
+                <option name="sum" value="5.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="401" />
+                <distribution>
+                  <entry key="false" value="369" />
+                  <entry key="true" value="32" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-4-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="70" />
+                <distribution>
+                  <entry key="Language: go" value="70" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="70" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="5" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="15" />
+                  <entry key="INVALIDATED" value="47" />
+                  <entry key="MOUSE_PRESSED" value="1" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="2" />
+                <option name="sum" value="3.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="2" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="70" />
+                <distribution>
+                  <entry key="false" value="68" />
+                  <entry key="true" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-4-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="71" />
+                <distribution>
+                  <entry key="Language: go" value="65" />
+                  <entry key="Language: yaml" value="6" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="71" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="31" />
+                  <entry key="INVALIDATED" value="32" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="1" />
+                <option name="sum" value="40.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="1" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="71" />
+                <distribution>
+                  <entry key="false" value="70" />
+                  <entry key="true" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-5-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="234" />
+                <distribution>
+                  <entry key="Language: go" value="234" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="234" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="16" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="108" />
+                  <entry key="INVALIDATED" value="89" />
+                  <entry key="MOUSE_PRESSED" value="3" />
+                  <entry key="SELECTED" value="16" />
+                  <entry key="TYPED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="35" />
+                <option name="sum" value="294.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="35" />
+                <option name="sum" value="17.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="234" />
+                <distribution>
+                  <entry key="false" value="199" />
+                  <entry key="true" value="35" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2026-1-9-23">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="115" />
+                <distribution>
+                  <entry key="Language: DotEnv" value="71" />
+                  <entry key="Language: go" value="44" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="115" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="6" />
+                  <entry key="EMPTY" value="26" />
+                  <entry key="INVALIDATED" value="80" />
+                  <entry key="MOUSE_PRESSED" value="2" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="22" />
+                <option name="sum" value="14.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="22" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="115" />
+                <distribution>
+                  <entry key="false" value="93" />
+                  <entry key="true" value="22" />
                 </distribution>
               </MetricValue>
             </entry>

@@ -162,22 +162,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/IdeaProjects/cvhub">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cvhub" projectWorkspaceId="33CpX7pZtwfSKA6MHISgUlRVBum">
-              <option name="activationTimestamp" value="1763714234616" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-252.27397.103" />
-              <option name="buildTimestamp" value="1761196320000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="1979" y="32" width="1920" height="1048" extendedState="6" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1763631742116" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/.trash/kit">
           <value>
             <RecentProjectMetaInfo frameTitle="kit – AuthController.java" projectWorkspaceId="35mTRNfchM962uWoi3AbYZ3Sr1U">
@@ -194,10 +178,26 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/GolandProjects/tender-remake">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tender-remake" projectWorkspaceId="36QJiP5Uo6x7WNwThGwRLuaX3Qh">
+              <option name="activationTimestamp" value="1764935101636" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.27397.103" />
+              <option name="buildTimestamp" value="1761196320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1764520388703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/.trash/tenderhack-2025/backend">
           <value>
-            <RecentProjectMetaInfo frameTitle="backend – README.md" opened="true" projectWorkspaceId="369HL6WfNrg3D5sCuljcXW4uhAU">
-              <option name="activationTimestamp" value="1764430536935" />
+            <RecentProjectMetaInfo frameTitle="backend – ASYNC_PIPELINE_REFACTORING.md" projectWorkspaceId="369HL6WfNrg3D5sCuljcXW4uhAU">
+              <option name="activationTimestamp" value="1765036466847" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-252.27397.103" />
               <option name="buildTimestamp" value="1761196320000" />
@@ -206,13 +206,157 @@
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1764411115693" />
+              <option name="projectOpenTimestamp" value="1765036415330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/shapki/backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backend – CartService.java" projectWorkspaceId="36QNzuqeQYNqNMa71WlEopqIwV0">
+              <option name="activationTimestamp" value="1765575845672" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.28294.334" />
+              <option name="buildTimestamp" value="1764949020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1765395398310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test – Main.java" projectWorkspaceId="377IfSNo8j1adelHBdHpgh6j4f3">
+              <option name="activationTimestamp" value="1766247795863" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.28294.334" />
+              <option name="buildTimestamp" value="1764949020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2180" y="40" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1766247787405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/s3-saver">
+          <value>
+            <RecentProjectMetaInfo frameTitle="s3-saver – pom.xml" projectWorkspaceId="37lFyiul6jRvxiVD60xcltapQ9Q">
+              <option name="activationTimestamp" value="1767470009149" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767470009453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/s3-saver">
+          <value>
+            <RecentProjectMetaInfo frameTitle="s3-saver – S3Service.java" projectWorkspaceId="37lGKCblr0kHke0g9ZJC8MVkjWq">
+              <option name="activationTimestamp" value="1767638621266" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767471764483" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest-old">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bank_rest-old – pom.xml (bank-rest)" projectWorkspaceId="37r0WWdyVNbKPRWwlYJPEtvShXD">
+              <option name="activationTimestamp" value="1767646154077" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767646154747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest_old">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bank_rest_old – pom.xml (bank-rest)" projectWorkspaceId="37r1RORj4dt0e6GN2Pa8v0LIB2G">
+              <option name="activationTimestamp" value="1767646749924" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767646508270" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cvhub">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cvhub – GrpcJwtServerInterceptor.java" projectWorkspaceId="33CpX7pZtwfSKA6MHISgUlRVBum">
+              <option name="activationTimestamp" value="1767728780417" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767725163907" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/bank_rest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bank_rest – SecurityConfig.java" projectWorkspaceId="37scL1UjykEiJktA23PmsSBARCh">
+              <option name="activationTimestamp" value="1768240105928" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.138" />
+              <option name="buildTimestamp" value="1766034060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1767856385207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/shapki-ru/backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backend – Commit: deploy-test.yaml" opened="true" projectWorkspaceId="37wDfwUWU3w8iWmpImP3G2MreSP">
+              <option name="activationTimestamp" value="1768332973475" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-253.29346.240" />
+              <option name="buildTimestamp" value="1767848460000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1920" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1768240111458" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/.trash/tenderhack-2025/backend" />
-    <option name="lastProjectLocation" value="$USER_HOME$/.trash" />
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/shapki-ru/backend" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects/shapki-ru" />
   </component>
 </application>

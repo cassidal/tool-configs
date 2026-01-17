@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.thymeleaf" />
         <option value="IdeaVIM" />
+        <option value="com.intellij.spring" />
       </list>
     </option>
   </component>

@@ -6,3 +6,5 @@ alias clr='reset'
 
 # - - - > Terraform < - - -
 alias tf='terraform'
+
+# - - - > Git < - - -

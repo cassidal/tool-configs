@@ -3,6 +3,11 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/.trash/kit" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/awesomeProject" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/calendar-importer" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/leetcode" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/s3-saver" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/tender-remake/backend" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/clear-spring" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/cvhub" value="true" />
         <entry key="$USER_HOME$/IdeaProjects/cvhub/auth-service" value="true" />

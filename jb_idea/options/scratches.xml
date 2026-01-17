@@ -1,0 +1,15 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_1.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_10.sql" value="H2" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_2.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_3.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_4.sql" value="H2" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_5.sql" value="H2" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_6.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_7.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_8.sql" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Query_9.sql" value="PostgreSQL" />
+  </component>
+</application>

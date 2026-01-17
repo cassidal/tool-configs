@@ -10,5 +10,16 @@
         <option name="dockerExePath" value="/usr/bin/docker" />
       </configuration>
     </remote-server>
+    <remote-server name="Podman" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///run/user/1000/podman/podman.sock" />
+        <option name="autoDetectExePaths" value="true" />
+        <option name="certificatesPath" />
+        <entry contributedKey="PodmanConnectionConfigurator.PodmanExecutable" value="/usr/bin/podman" />
+        <option name="customConfiguratorId" value="podman" />
+        <option name="dockerComposeExePath" value="/usr/bin/docker" />
+        <option name="dockerExePath" value="/usr/bin/docker" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
